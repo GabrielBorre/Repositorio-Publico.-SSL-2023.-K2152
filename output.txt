@@ -1,0 +1,5 @@
+﻿[Running] cd "c:\Users\Gabriel\holamundo\" && gcc holamundo.c -o holamundo && "c:\Users\Gabriel\holamundo\"holamundo
+Hello World
+
+
+[Done] exited with code=0 in 0.706 seconds
